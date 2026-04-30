@@ -12,3 +12,9 @@ please review the latest guidance for Microsoft repositories at
 [https://aka.ms/SECURITY.md](https://aka.ms/SECURITY.md).
 
 <!-- END MICROSOFT SECURITY.MD BLOCK -->
+
+---
+
+> **Personal fork note:** This is a personal fork of microsoft/VibeVoice used for
+> learning and experimentation. For any security concerns specific to changes made
+> in this fork, please open a private discussion or contact me directly via GitHub.
