@@ -40,4 +40,6 @@ Our core principles are **code minimalism**, **high readability**, and **functio
 
 ---
 
+> **Personal fork note:** This is my local learning fork. I'm relaxing the AI-generated code restriction for my own experiments — I'll still review everything carefully, but I won't be submitting PRs upstream.
+
 We look forward to receiving **precise, streamlined, and substantively valuable** research contributions.
