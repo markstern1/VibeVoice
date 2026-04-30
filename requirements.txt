@@ -24,3 +24,6 @@ pyyaml>=6.0.1
 
 # Optional: GPU acceleration
 # cupy-cuda12x>=12.0.0
+
+# Personal additions
+ipython>=8.0.0  # useful for interactive debugging sessions
